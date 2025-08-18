@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="14-02 3.png" alt="GitHub Banner" width="100%" />
 
 ## 👋 Hey there! I'm Gatha Jetly
 🏗️ I'm a Software Developer passionate about DevOps, Web Development, Automation Testing, and Networking.  

@@ -1,4 +1,4 @@
-<img src="14-02 3.png" alt="GitHub Banner" width="100%" />
+<img src="https://github.com/gathajetly/gathajetly/blob/main/Git%20It%20Girl%20-%20For%20Programmer%20And%20Web%20Developper%20Girls%20And%20Women%20-%20Pink%20Sticker%20by%20LookFrog.jpeg" alt="GitHub Banner" width="100%" />
 
 ## 👋 Hey there! I'm Gatha Jetly
 🏗️ I'm a Software Developer passionate about Java, Java Development, SpringBoot, and Microservices.  

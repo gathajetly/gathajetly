@@ -1,64 +1,45 @@
-<img src="https://github.com/gathajetly/gathajetly/blob/main/Git%20It%20Girl%20-%20For%20Programmer%20And%20Web%20Developper%20Girls%20And%20Women%20-%20Pink%20Sticker%20by%20LookFrog.jpeg" alt="GitHub Banner" width="100%" />
+# Hi, I'm Gatha 👋
 
-## 👋 Hey there! I'm Gatha Jetly
-🏗️ I'm a Software Developer passionate about Java, Java Development, SpringBoot, and Microservices.  
+I'm a Java backend developer who loves building things that actually work at scale.
+My focus is on Spring Boot, Microservices, and clean system design — but I've shipped
+full-stack products too, from database to UI.
 
-🚀 Aspiring Tech Enthusiast | Lifelong Learner
+---
 
-🎯 Goal-Oriented | Punctual | Passionate
+## 🛠 What I Work With
 
-💡 I love exploring new technologies, working with skilled professionals, and diving deep into topics that spark my interest. I thrive on learning and building cool stuff!
+**Backend:** Java · Spring Boot · Microservices · REST APIs · JWT Auth  
+**Frontend:** React · JavaScript · HTML/CSS  
+**Databases:** MySQL · MongoDB  
+**DevOps & Cloud:** Docker · Azure · AWS · Prometheus  
+**Tools:** Git · Postman · Ubuntu  
 
-🔍 Always eager to learn, adapt, and grow—because every challenge is an opportunity!  
+---
 
-<br>
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/gathajetly" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/gathajetly" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40">
-  </a>
-</p>
-<br>
+## 🚀 Projects I'm Proud Of
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MYSQL" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mode" width="55" height="55"/>
+### [Blinkey](https://github.com/gathajetly/Blinkey) — Full-Stack E-Commerce Platform
+A complete e-commerce web app with a React frontend and a Java + Spring Boot backend.
+Handles product listings, cart, and orders with MySQL + MongoDB for data storage.  
+`React` `Spring Boot` `Java` `MySQL` `MongoDB`
 
-</p>
-<h2 align="center">📊 GitHub Stats</h2>
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gathajetly&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gathajetly&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" /></td>
-  </tr>
-</table>
+### [User Role-Based Access System](https://github.com/gathajetly/user-based-access-system)
+Built a secure authentication and authorization system from scratch.
+Users get assigned roles (Admin, Moderator, User) with JWT-based access control throughout.  
+`React` `Spring Boot` `JWT` `Java`
 
-<h2 align="center">👀 Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gathajetly&color=brightgreen" alt="Profile Views">
-</p>
+---
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gathajetly/gathajetly/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gathajetly/gathajetly/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/gathajetly//output/github-snake.svg" />
-  </picture>
+## 📌 Currently
+
+- Deepening my expertise in distributed systems and Microservices architecture
+- Sharpening problem-solving on LeetCode
+- Open to backend / full-stack roles and freelance projects
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/gathajetly)
+- 💻 [LeetCode](https://leetcode.com/gathajetly)
+- 📧 Reach me via LinkedIn DM — I respond fast
